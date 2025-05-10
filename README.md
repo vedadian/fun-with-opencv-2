@@ -1,3 +1,3 @@
 # Fun with OpenCV 2
 
-This repo contains the companion code for my blog post [fun-with-opencv-seam-carving](http://vedadian.com/fun-with-opencv-2/) on [my personal blog](http://vedadian.com)
+This repo contains the companion code for my blog post [Fun with OpenCV: Carving Seams](https://vedadian.com/blog/fun_with_opencv_2/) on [my personal blog](http://vedadian.com)
